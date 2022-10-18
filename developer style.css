@@ -1,0 +1,34 @@
+#herotext{
+	color: white;
+}
+.lead{
+	color: white;
+}
+.herologo{
+	display: flex;
+	justify-content: space-between;
+}
+.cardimg{
+	display: flex;
+	justify-content: center;
+}
+.passage{
+	display: flex;
+	justify-content: space-between;
+}
+.lead{
+	font-family: 'Inter', sans-serif;
+}
+.navbar-brand,.head,.btn{
+	font-family: 'Prata', serif;
+}
+.social:hover{
+	cursor: pointer;
+}
+.head:hover{
+  text-shadow:2px 2px 2px white;
+  cursor: context-menu;
+}
+.lead:hover{
+	cursor: progress;
+}
